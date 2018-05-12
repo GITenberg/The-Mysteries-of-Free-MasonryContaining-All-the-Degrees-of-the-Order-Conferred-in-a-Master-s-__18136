@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7831
     wikipedia: http://en.wikipedia.org/wiki/William_Morgan_(anti-Mason)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18136#The-Mysteries-of-Free-MasonryContaining-All-the-Degrees-of-the-Order-Conferred-in-a-Master-s-_
 gutenberg_issued: '2006-04-09'
 gutenberg_type: Text
 identifiers:
