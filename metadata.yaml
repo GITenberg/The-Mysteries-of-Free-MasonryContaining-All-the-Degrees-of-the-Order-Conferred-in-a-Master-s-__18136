@@ -1,0 +1,29 @@
+_repo: The-Mysteries-of-Free-MasonryContaining-All-the-Degrees-of-the-Order-Conferred-in-a-Master-s-__18136
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morgan, William
+    alias: Morgan, W. M. (William M.)
+    birthdate: 1774
+    gutenberg_agent_id: '7831'
+    url: http://www.gutenberg.org/2009/agents/7831
+    wikipedia: http://en.wikipedia.org/wiki/William_Morgan_(anti-Mason)
+description: ''
+gutenberg_issued: '2006-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HS'
+- !lcsh 'Freemasonry -- United States -- Rituals'
+title: 'The Mysteries of Free Masonry
+
+  Containing All the Degrees of the Order Conferred in a Master''s Lodge'
+url: http://www.gutenberg.org/ebooks/18136
